@@ -9,9 +9,8 @@ Reach me at:
 📧 sprobertson94@gmail.com
 
 ## Blog Posts
-<!-- HASHNODE::START --> 
-
-<!-- HASHNODE::END -->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 <!--
 **sRobDev/sRobDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
