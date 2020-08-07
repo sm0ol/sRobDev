@@ -1,0 +1,17 @@
+name: Latest Hashnode Post
+on: 
+    schedule: 
+        - cron: '0 * * * *'
+    workflow_dispath: 
+
+jobs: 
+    update-readme-with-blog:
+        name: update-repo-readme
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                comment_tag_name: "HASHNODE"
+                commit_message: "Updated readme with the latest Hashnode blog data"
+                feed_list: https://srobdev.hashnode.dev/rss.xml
