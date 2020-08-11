@@ -11,6 +11,7 @@ Reach me at:
 ## Blog Posts
 <!-- HASHNODE:START -->
 - [Tailwind Tidbits #1: Neumorphic Profile Card](https://srobdev.hashnode.dev/tailwind-tidbits-1-neumorphic-profile-card-ckdj0erwy011kz2s1gof2ao6g)
+- [TailwindCSS in CodeSandbox: A Detailed Guide](https://srobdev.hashnode.dev/tailwindcss-in-codesandbox-a-detailed-guide-ckdqcyh9o03c5l9s1e4ui11xn)
 - [TailwindCSS: The Very Basics (Installation + IntelliSense)](https://srobdev.hashnode.dev/tailwindcss-the-very-basics-installation-intellisense-ckdf25ild006xpts1c95j9r9d)
 <!-- HASHNODE:END -->
 <!--
