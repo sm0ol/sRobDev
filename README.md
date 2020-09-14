@@ -1,6 +1,6 @@
 ### Hi everyone! 
 
-I'm currently a Software Engineer at Comcast. By day, I do a lot of stuff with AngularJS and Node (and now Concourse!).  By night, I've been diving into React, grinding JS fundamentals and concepts, and whatever else I can get my hands on.  I have a passion for learning, and want to understand the wonderful language we know as JavaScript as thoroughly as possible.
+I'm currently a Software Engineer at System1. By day, I do a lot of stuff with AngularJS and Node.  By night, I've been diving into React, grinding JS fundamentals and concepts, and whatever else I can get my hands on.  I have a passion for learning, and want to understand the wonderful language we know as JavaScript as thoroughly as possible.
 
 Reach me at:
 
