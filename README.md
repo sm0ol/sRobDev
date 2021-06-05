@@ -1,10 +1,10 @@
 ### Hi everyone! 
 
-I'm currently a Software Engineer at System1. By day, I do a lot of stuff with AngularJS and Node.  By night, I've been diving into React, grinding JS fundamentals and concepts, and whatever else I can get my hands on.  I have a passion for learning, and want to understand the wonderful language we know as JavaScript as thoroughly as possible.
+I'm currently a Software Engineer at System1. By day, I do a lot of stuff with React (and some Scala here and there, when forced...).  By night, I've been diving into functional programming and AWS architecture.  I have a passion for learning, and want to understand the wonderful language we know as JavaScript as thoroughly as possible.
 
 Reach me at:
 
-🐦 @srobDev
+🐦 @_sm0ol
 
 📧 sprobertson94@gmail.com
 
