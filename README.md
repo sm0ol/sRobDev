@@ -2,12 +2,6 @@
 
 I'm currently a Software Engineer at System1. By day, I do a lot of stuff with React (and some Scala here and there, when forced...).  By night, I've been diving into functional programming and AWS architecture.  I have a passion for learning, and want to understand the wonderful language we know as JavaScript as thoroughly as possible.
 
-Reach me at:
-
-🐦 [@_sm0ol](https://twitter.com/_sm0ol)
-
-📧 sprobertson94@gmail.com
-
 ## Blog Posts
 <!-- HASHNODE:START -->
 - [Tailwind Tidbits #1: Neumorphic Profile Card](https://srobdev.hashnode.dev/tailwind-tidbits-1-neumorphic-profile-card-ckdj0erwy011kz2s1gof2ao6g)
