@@ -4,7 +4,7 @@ I'm currently a Software Engineer at System1. By day, I do a lot of stuff with R
 
 Reach me at:
 
-🐦 @_sm0ol
+🐦 [@_sm0ol](https://twitter.com/_sm0ol)
 
 📧 sprobertson94@gmail.com
 
